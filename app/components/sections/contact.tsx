@@ -14,8 +14,8 @@ const contactItems = [
   },
   {
     icon: <Globe size={22} className="text-[#11b2cc] flex-shrink-0" />,
-    label: 'portfolio-seven-gules-41.vercel.app',
-    href: 'https://portfolio-seven-gules-41.vercel.app',
+    label: 'abdou-nizar.vercel.app',
+    href: 'https://abdou-nizar.vercel.app',
   },
   {
     icon: <MapPin size={22} className="text-[#11b2cc] flex-shrink-0" />,
