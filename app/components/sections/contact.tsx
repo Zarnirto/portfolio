@@ -14,8 +14,8 @@ const contactItems = [
   },
   {
     icon: <Globe size={22} className="text-[#11b2cc] flex-shrink-0" />,
-    label: 'www.reallygreatsite.com',
-    href: 'https://www.reallygreatsite.com',
+    label: 'portfolio-seven-gules-41.vercel.app',
+    href: 'https://portfolio-seven-gules-41.vercel.app',
   },
   {
     icon: <MapPin size={22} className="text-[#11b2cc] flex-shrink-0" />,
